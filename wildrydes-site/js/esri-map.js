@@ -21,7 +21,7 @@ WildRydes.map = WildRydes.map || {};
         Graphic, Point, TextSymbol,
         PictureMarkerSymbol, webMercatorUtils, Locate
     ) {
-
+        /* ArcGIS API */
         esriConfig.apiKey = "AAPKce8ca8ba84c14cbbbc6704f57648c69dAH3j7owJ7xid4-FVsiTEdpfjsDTS33VTY1u2P7BjWG7T8j-3StcIR6csrAHFimWp";
         var wrMap = WildRydes.map;
 
